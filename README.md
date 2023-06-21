@@ -1,5 +1,5 @@
 # OpenLLaMA: An Open Reproduction of LLaMA
-
+# this
 **TL;DR**: we are releasing our public preview of OpenLLaMA, a permissively licensed open source reproduction of Meta AI’s LLaMA 7B and 13B trained on the RedPajama dataset. Our model weights can serve as the drop in replacement of LLaMA in existing implementations. We also provide a smaller 3B variant of LLaMA model.
 
 
